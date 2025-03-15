@@ -1,4 +1,4 @@
-**this repo contains a fine-tuning model trained with lamini**
+**THIS REPO CONTAINS A FINE-TURNING MODEL TRAINED WITH LAMINI**
 
 **what is fine-tuning**
 
